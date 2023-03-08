@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "title": "Aurora in Flowers",
+        "image": "aurora.jpg",
+        "tools": "Procreate",
+        "date": "Novemeber 2022"
+    },
+    {
+        "id": 2,
+        "title": "Valentine Mandala",
+        "image": "m_pink.jpg",
+        "tools": "Amaziograph",
+        "date": "November 2022"
+    },
+    {
+        "id": 3,
+        "title": "Restaurant 001",
+        "image": "restaurant.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"
+    },
+    {
+        "id": 4,
+        "title": "Cabin 001",
+        "image": "cabin_bw.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"
+    },
+    {
+        "id": 5,
+        "title": "Mushroom in the Calm",
+        "image": "mushroom.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"
+    },
+    {
+        "id": 6,
+        "title": "Chainsaw Man Fan Art",
+        "image": "Chainsaw_man.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"
+    },
+    {
+        "id": 7,
+        "title": "Club 001",
+        "image": "club.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"
+    },
+    {
+        "id": 8,
+        "title": "Everyday View",
+        "image": "subway.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"
+    },
+    {
+        "id": 9,
+        "title": "Cabin 002",
+        "image": "cabin.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"  
+    },
+    {
+        "id": 10,
+        "title": "Frames and Patterns",
+        "image": "frame.jpg",
+        "tools": "Procreate",
+        "date": "November 2022"  
+    }
+    
+]

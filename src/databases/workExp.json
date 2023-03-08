@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Research Assistant (Data Science)",
+        "place": "Toronto Metropolitan University (Remote)",
+        "tools": "Python, Sumo Simluation Software, XML",
+        "skills": "Pandas, Cleaning Data, Analyzing Data, Excel, Client Relations, Time Management, Microsimulation",
+        "date": "May 2021 - December 2021",
+        "description": ["• Created class architecture and defined object interactions by using UML to document agent attributes" ,"• Developed a microsimulation of Innisfil's town using SUMO and NETEDIT, which simulated existing transit service, serving up to 220,000 trips with various demand levels (130%, 150%, and 200%), as well as simulating a hybrid service model", "• Utilized Python scripts along with Excel and XML to generate key simulation files and analyze simulation data","• Presented simulation results to clients and team members, effectively communicating findings and insights"]
+    },
+    {
+        "id": 2,
+        "title": "Web/XR Developer",
+        "place": "Kore Meta Inc. (Remote)",
+        "tools": "Wordpress, Unity, C#",
+        "skills": "Teamwork, Virtual Reality, Web Development, UI/UX Design",
+        "date": "January 2023 - Present",
+        "description": ["• Created a website design for Kore Meta Inc using Figma, considering the target audience and and user experience." ,"• Currently using the Figma design to build a functional website using WordPress, with a responsive layout, and user-friendly navigation.","• Currently learning XR development to prepare for the upcoming VR project at Kore Meta Inc, which involves working with Unity and C# to build immersive experiences."]
+    },
+    {
+        "id": 3,
+        "title": "Virtual Reality Consultant",
+        "place": "OVRA (Ontario-Students Virtual Reality Association) (Hybrid)",
+        "tools": "Unity, C#, Oculus Quest 2",
+        "skills": "Networking, Virtual Reality, Event Planning, Public Speaking",
+        "date": "February 2023 - Present",
+        "description": ["• Serving as a VR consultant for a startup company, advising on the development of virtual reality experiences." ,"• Providing expertise in setting up a Unity project with Oculus headset, helping the team configure the necessary hardware and software components for an optimal VR development environment.","• Worked closely with the team to understand their vision, providing suggestions on how to better their VR education."]
+    }, 
+    {
+        "id": 4,
+        "title": "Research Assistant (Web Application Development)",
+        "place": "Toronto Metropolitan University (Hybrid)",
+        "tools": "Django, REST API, Python, Matlab, Vue.js",
+        "skills": "Matlab application development, server communication",
+        "date": "January 2023 - Present",
+        "description": ["• Currently developing a website using a combination of MATLAB, Django, and Vue.js to provide a highly interactive and dynamic user experience.","• MATLAB programs used for complex processing integrated into the website through Django framework. Continuously testing and debugging to ensure the website was fully functional, secure, and free of errors.","• Utilizing GitHub to manage project versions, creating and managing branches, committing changes, and resolving conflicts.","• Next Steps - Incorporate secure user authentication and payment processing features into website using Django"]
+    }
+   
+]

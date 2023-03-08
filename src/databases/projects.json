@@ -1,0 +1,30 @@
+[
+    {  
+        "id": 1,
+        "title": "EduBot",
+        "image": "Edubot.png",
+        "tools": "Python",
+        "date": "May 2020",
+        "description": "EduBot is a discord bot created for ruHacks 2021. The bot is designed to help students stay organized through a common platform. The bot allows you to keep track of your schedule and notify you when of important class and date times. Concepts like event handlers and listeners, and apsheduler was used."
+
+    },
+    {
+        "id": 2,
+        "title": "Personal Portfolio",
+        "image": "personalPortfolio.jpg",
+        "tools": "VUE 3 (HTML, CSS, JS), Quasar",
+        "date": "January 2023",
+        "description": "This is the website you are viewing at the moment! This website was created using VUE and was a way for me to learn a front end framework, as well as creating a way to showcase my porfolio. Concepts such as using components, Javascript scripts, displaying data from JSON files used."
+    },
+    {
+        "id": 2,
+        "title": "Blaze Buddy",
+        "image": "blazeBuddy.jpg",
+        "tools": "REACT, Flask, Cohere AI",
+        "date": "Fabruary 2023",
+        "description": "This is the website you are viewing at the moment! This website was created using VUE and was a way for me to learn a front end framework, as well as creating a way to showcase my porfolio. Concepts such as using components, Javascript scripts, displaying data from JSON files used."
+    }
+    
+    
+
+]

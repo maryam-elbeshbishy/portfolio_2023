@@ -2,7 +2,7 @@
 <div class="row bg-bg_art" style="height:100vh">
     <div class="columns col-3"> 
       <div class="q-mr-md q-ml-md q-mt-sm">
-        <q-img src="..\img\art_port.jpg"
+        <q-img src="..\img\top_left_home.jpg"
         spinner-color="white"
         style="border-radius: 10px;" alt="ART NOT LOADED"/>
       </div>
@@ -34,11 +34,11 @@
         :visible="true"
         style="height: 90vh; max-width: 97%;">
         <!-- Projects -->
-        <div class="q-pa-md row items-start q-gutter-md text-proj_card_text" >
-            <q-card v-for="item in items" :key="item.id" class="my-card proj_card">
+        <div class="q-pa-md row items-start q-gutter-md text-proj2_card_text" >
+            <q-card v-for="item in items" :key="item.id" class="my-card proj2_card">
               <img :src="require(`../img/art/${item.image}`)">
 
-              <q-card-section class="title bg-proj_card_title">
+              <q-card-section class="title bg-proj2_card_title">
                   <div class="text-h6 "><b>{{item.title}}</b></div>
                   <div class="text-body2 items">{{item.tools}}</div>
                   <div class="text-body2 items">{{item.date}}</div>
@@ -55,7 +55,7 @@
 <script>
 import artItems from '../databases/art.json'
 export default {
-    name: 'ProjectsPage',
+    name: 'proj2ectsPage',
     data() {
         return {
             items: artItems,
@@ -67,20 +67,20 @@ export default {
 <style>
 
 .bg-bg_art{
-  background: #22432e !important;
+  background: rgb(18, 126, 106) !important;
 }
 
 /* nav buttons */
 .bg-nav_btn_art{
-  background: #1242a2 !important;
+  background: rgb(175, 105, 69) !important;
 }
 .text-nav_btn_art{
-  color: #d0dcf0 !important;
+  color: #ffffff !important;
 }
 
 /* Title Left hand */
 .bg-art_title{
-  background: rgb(14, 113, 96) !important; 
+  background: rgb(175, 105, 69) !important; 
 }
 .text-art_title{
   color: #f1e2ff !important;
@@ -88,30 +88,30 @@ export default {
 
 /* Message Left Hand */
 .bg-art_message{
-  background: rgb(8, 55, 11) !important; 
+  background: #b5c49d !important; 
 }
 .text-art_message{
-  color: #9473b3 !important;
+  color: rgb(6, 52, 44) !important;
 }
 
 /* art Styling */
-.proj_card{
+.proj2_card{
   width: 30vw;
 }
-.proj_img{
+.proj2_img{
   width:10vw !important;
   border-radius: 10px;
   display: block;
   margin-left: auto; 
   margin-right: auto
 }
-.bg-proj_card_title{
-  background: rgb(110, 14, 113) !important; 
+.bg-proj2_card_title{
+  background: rgb(8, 89, 62) !important; 
 }
-.bg-proj_card_desc{
+.bg-proj2_card_desc{
   background: rgb(206, 126, 207) !important; 
 }
-.text-proj_card_text{
+.text-proj2_card_text{
   color:#feffff
 }
 </style>

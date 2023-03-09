@@ -18,7 +18,7 @@
         <q-btn class="q-ma-sm button text-h5 text-weight-bold bg-link_btn text-link_btn"  style="width:90%;" href="https://www.linkedin.com/in/melbeshb/" label="LinkedIn" /> 
         <q-btn class="q-ma-sm button text-h5 text-weight-bold bg-link_btn text-link_btn"  style="width:90%;" href="https://github.com/maryam-elbeshbishy" label="GitHub" /> 
         <q-btn class="q-ma-sm button text-h5 text-weight-bold bg-link_btn text-link_btn"  style="width:90%;" href="mailto: maryam.elbeshbishy@ryerson.ca" label="Email" /> 
-        <q-btn class="q-ma-sm button text-h5 text-weight-bold bg-link_btn text-link_btn"  style="width:90%;" href="mailto: maryam.elbeshbishy@ryerson.ca" label="Resume" /> 
+        <q-btn class="q-ma-sm button text-h5 text-weight-bold bg-link_btn text-link_btn"  style="width:90%;" href="https://docs.google.com/document/d/11k5zGLbldafjqjB5UZI3vdlU334IZ7iAkPmmudnViOk/edit?usp=sharing" label="Resume" /> 
         <q-btn class="q-ma-sm button text-h5 text-weight-bold bg-link_btn text-link_btn"  style="width:90%;" href="https://www.instagram.com/marilambb_draws/" label="Art Insta" /> 
       </div>
   </div>
